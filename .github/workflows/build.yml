@@ -1,4 +1,4 @@
-.github/workflows/build.yml:name: Build
+name: Build
 
 on:
   workflow_dispatch:
